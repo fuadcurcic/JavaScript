@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript Lessons and Examples
+JavaScript Lessons and Examples!
