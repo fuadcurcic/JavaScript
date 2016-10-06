@@ -1,0 +1,4 @@
+function displaynim() {
+    document.write("*");
+
+}
